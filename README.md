@@ -8,5 +8,11 @@ This repository contains:\
         4. Using id as an argument, return the sale which matches the id.\
     - A standard layout done in React with SCSS/HTML.
 
+It is kind of like a jewellry box:\
+    - The most outerlayer box is the jewellry box as a whole\
+    - Inside this outer layer you may have 3 drawers which have their own properties\
+    - Inside those drawers you might have individual jewellry boxes containing the jewellry.\
+Boxes are contained by their parent box but have their own properties and content
+
 # hello-world
 
