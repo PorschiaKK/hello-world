@@ -1,7 +1,12 @@
 # hello-world
+This repository contains:\
+A description of the Box Model.\
+JS exercise that returns:\
+    - the sum of the price of all properties as a single value.\
+    - the items which were sold in 2017.\
+    - an array of all of the itemsSold properties as strings, sorted alphabetically.\
+    - Using id as an argument, return the sale which matches the id.
+A standard layout done in React with SCSS/HTML.\
 
- - Starting a revolution is hard when you're hungry af (well, I'm not wrong)\
- 1.hello\
- 2.world\
- 3.google
- - test
+# hello-world
+
